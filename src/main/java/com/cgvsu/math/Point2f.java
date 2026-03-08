@@ -9,8 +9,6 @@ package com.cgvsu.math;
  * 
  * <p>Предоставляет методы сравнения с учетом погрешности вычислений.
  * 
- * @author CGVSU Team
- * @version 1.0
  */
 public class Point2f {
     

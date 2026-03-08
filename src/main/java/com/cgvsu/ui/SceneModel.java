@@ -9,8 +9,6 @@ import com.cgvsu.model.ModelTransform;
  * <p>Хранит модель, ее трансформации (позиция, вращение, масштаб),
  * имя модели и флаг активности (отображается ли модель в сцене).
  * 
- * @author CGVSU Team
- * @version 1.0
  */
 public class SceneModel {
     

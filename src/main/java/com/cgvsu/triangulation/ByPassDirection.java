@@ -6,8 +6,6 @@ package com.cgvsu.triangulation;
  * <p>Используется для определения порядка обработки вершин
  * при разбиении полигона на треугольники.
  * 
- * @author CGVSU Team
- * @version 1.0
  */
 public enum ByPassDirection {
     /**

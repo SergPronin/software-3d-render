@@ -10,8 +10,6 @@ package com.cgvsu.exceptions;
  *   <li>Проблемы с валидацией модели</li>
  * </ul>
  * 
- * @author CGVSU Team
- * @version 1.0
  */
 public class ModelException extends RuntimeException {
     

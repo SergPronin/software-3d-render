@@ -10,8 +10,6 @@ package com.cgvsu.exceptions;
  *   <li>Проблемы с вычислением трансформаций</li>
  * </ul>
  * 
- * @author CGVSU Team
- * @version 1.0
  */
 public class TransformationException extends RuntimeException {
     

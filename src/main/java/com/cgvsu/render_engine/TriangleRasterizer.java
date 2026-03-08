@@ -24,8 +24,6 @@ import javafx.scene.paint.Color;
  *   <li>Frustum culling (отбрасывание треугольников вне экрана)</li>
  * </ul>
  * 
- * @author CGVSU Team
- * @version 1.0
  */
 public class TriangleRasterizer {
 

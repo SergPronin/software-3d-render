@@ -11,8 +11,6 @@ import java.util.ArrayList;
  * <p>Полигон должен содержать минимум 3 вершины (треугольник). Для рендеринга
  * все полигоны должны быть триангулированы.
  * 
- * @author CGVSU Team
- * @version 1.0
  */
 public class Polygon {
 

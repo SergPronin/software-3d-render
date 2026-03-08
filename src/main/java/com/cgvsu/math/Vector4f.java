@@ -21,8 +21,6 @@ package com.cgvsu.math;
  * 
  * <p>Используется в графическом конвейере для преобразования вершин через MVP матрицы.
  * 
- * @author CGVSU Team
- * @version 1.0
  */
 public class Vector4f {
     

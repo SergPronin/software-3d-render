@@ -21,8 +21,6 @@ import com.cgvsu.math.Matrix4f;
  * 
  * <p>Все методы возвращают копии векторов для предотвращения изменения извне.
  * 
- * @author CGVSU Team
- * @version 1.0
  */
 public class Camera {
 

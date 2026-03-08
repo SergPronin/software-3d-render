@@ -15,8 +15,6 @@ package com.cgvsu.math;
  * <p>Используется для представления текстурных координат (UV), 
  * двумерных точек и направлений.
  * 
- * @author CGVSU Team
- * @version 1.0
  */
 public class Vector2f {
     

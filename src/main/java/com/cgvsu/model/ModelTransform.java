@@ -14,8 +14,6 @@ import com.cgvsu.math.Vector3f;
  * 
  * <p>Все методы возвращают копии векторов для предотвращения изменения извне.
  * 
- * @author CGVSU Team
- * @version 1.0
  */
 public class ModelTransform {
     

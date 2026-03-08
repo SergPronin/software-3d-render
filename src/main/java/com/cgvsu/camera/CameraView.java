@@ -19,8 +19,6 @@ import com.cgvsu.math.Vector3f;
  * <p>После применения view матрицы, камера находится в начале координат (0, 0, 0)
  * и смотрит вдоль отрицательной оси Z.
  * 
- * @author CGVSU Team
- * @version 1.0
  */
 public class CameraView {
     

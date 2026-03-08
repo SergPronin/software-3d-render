@@ -3,8 +3,6 @@ package com.cgvsu.exceptions;
 /**
  * Базовое исключение для ошибок рендеринга.
  * 
- * @author CGVSU Team
- * @version 1.0
  */
 public class RenderException extends RuntimeException {
     

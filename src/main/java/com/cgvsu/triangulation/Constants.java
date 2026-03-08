@@ -3,8 +3,6 @@ package com.cgvsu.triangulation;
 /**
  * Константы, используемые при триангуляции полигонов.
  * 
- * @author CGVSU Team
- * @version 1.0
  */
 public class Constants {
     

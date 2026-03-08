@@ -11,8 +11,6 @@ import com.cgvsu.math.Matrix4f;
  * <p>Матрица проекции используется в графическом конвейере для создания эффекта перспективы,
  * при котором удаленные объекты выглядят меньше, чем близкие.
  * 
- * @author CGVSU Team
- * @version 1.0
  */
 public class CameraProjection {
     

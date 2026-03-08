@@ -18,8 +18,6 @@ import java.util.Arrays;
  * 
  * <p>Все операции создают новые матрицы, исходные матрицы не изменяются.
  * 
- * @author CGVSU Team
- * @version 1.0
  */
 public class Matrix4f {
     

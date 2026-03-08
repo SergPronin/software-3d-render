@@ -22,8 +22,6 @@ import java.util.ArrayList;
  * 
  * <p>Исходный объект {@link Model} не изменяется, возвращается новая копия.
  * 
- * @author CGVSU Team
- * @version 1.0
  */
 public class ModelTransformer {
 

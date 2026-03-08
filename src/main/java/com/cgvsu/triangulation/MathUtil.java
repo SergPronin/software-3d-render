@@ -6,8 +6,6 @@ package com.cgvsu.triangulation;
  * <p>Содержит методы для решения систем линейных уравнений и вычисления
  * геометрических характеристик.
  * 
- * @author CGVSU Team
- * @version 1.0
  */
 public class MathUtil {
     

@@ -32,8 +32,6 @@ import java.util.Optional;
  * 
  * <p>Автоматически выполняет пересчет нормалей при загрузке.
  * 
- * @author CGVSU Team
- * @version 1.0
  */
 public class FileOperationsHandler {
     

@@ -28,9 +28,6 @@ import static java.lang.Math.*;
  * </ul>
  * 
  * <p>Алгоритм основан на методе Ear-Cutting (Ear Clipping).
- * 
- * @author Adapted from triangulation-main project
- * @version 1.0
  * @see Triangulator
  */
 public class EarCuttingTriangulator implements Triangulator {

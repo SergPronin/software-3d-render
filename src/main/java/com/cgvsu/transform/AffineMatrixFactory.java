@@ -16,8 +16,6 @@ import com.cgvsu.math.Vector3f;
  * 
  * <p>Все матрицы создаются для работы с векторами-столбцами.
  * 
- * @author CGVSU Team
- * @version 1.0
  */
 public class AffineMatrixFactory {
 

@@ -18,8 +18,6 @@ import javafx.scene.control.Label;
  * 
  * <p>Поддерживает три режима трансформации: MOVE (перенос), ROTATE (вращение), SCALE (масштаб).
  * 
- * @author CGVSU Team
- * @version 1.0
  */
 public class ModelTransformController {
     

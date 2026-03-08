@@ -24,8 +24,6 @@ import java.util.Locale;
  * 
  * <p>Формат записи соответствует стандарту OBJ файлов.
  * 
- * @author CGVSU Team
- * @version 1.0
  */
 public class ObjWriter {
 

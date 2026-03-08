@@ -14,8 +14,6 @@ import java.util.Map;
  * <p>Предоставляет методы для создания новых полигонов, копирования
  * и вычисления геометрических характеристик.
  * 
- * @author CGVSU Team
- * @version 1.0
  */
 public class PolygonUtil {
     

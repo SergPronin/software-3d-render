@@ -18,9 +18,6 @@ import java.util.Map;
  * Для вогнутых полигонов может давать некорректные результаты.
  * 
  * <p>Сохраняет текстурные координаты и нормали при триангуляции.
- * 
- * @author CGVSU Team
- * @version 1.0
  * @see Triangulator
  */
 public class SimpleTriangulator implements Triangulator {

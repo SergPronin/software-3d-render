@@ -15,8 +15,6 @@ import javafx.scene.paint.Color;
  *   <li>Триангуляция и растеризация</li>
  * </ul>
  * 
- * @author CGVSU Team
- * @version 1.0
  */
 public class RenderSettings {
     
